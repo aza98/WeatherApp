@@ -90,4 +90,10 @@ private let apiKey = "TU_API_KEY_AQUI"
 
 <h2 align="left">🎨 Vista Previa</h2>
 
-<p align="left">*(Incluir imágenes o GIFs de la aplicación en acción aquí)*</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb4cc968-291a-4dd2-86d8-84d8a2866b74" alt="Welcome Screen" width="300" />
+  <img src="https://github.com/user-attachments/assets/4e60f4ef-f95f-4663-8754-25ca0c1bc5e5" alt="Loading Screen" width="300" />
+  <img src="https://github.com/user-attachments/assets/938c5d55-6311-419c-ba01-38b53442b593" alt="Weather Data" width="300" />
+  <img src="https://github.com/user-attachments/assets/4f2442bb-4765-411d-894f-e9c9465b6f08" alt="Weather Row" width="300" />
+  <img src="https://github.com/user-attachments/assets/f151ec84-ddaf-4b8c-aa50-c62d402c09d0" alt="Animated Background" width="300" />
+</p>
